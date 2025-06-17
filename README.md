@@ -19,3 +19,6 @@ In the Pacfully project, I implemented a responsive web design approach to ensur
 ## Responsive Preview:
 Below are screenshots of the Pacfully website displayed on different devices.
 
+## Mobile Responsive preview:
+![screenshot]()
+
